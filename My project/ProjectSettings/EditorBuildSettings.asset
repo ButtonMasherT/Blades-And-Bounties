@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Blades And Bountys Scenes/Menu.unity
+    guid: cdfeb30c3937e2c42be516ae1f382a1b
+  - enabled: 1
+    path: Assets/Blades And Bountys Scenes/duplication of character and scene.unity
+    guid: e074496db6c80f846b2c340a37908832
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 4af13ed68b5bc7644af23215f4e3ff69, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 70907ccd0d5d033498959c5a98e88dec, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 7cfc9f2e99cb74f4b967e8422081b120, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2da5b64919538304a8134e2eace329c3, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: c71ad8930352c25429a1c116c0171917, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: aedfc90fc3d609243a291c570e1d0479, type: 2}

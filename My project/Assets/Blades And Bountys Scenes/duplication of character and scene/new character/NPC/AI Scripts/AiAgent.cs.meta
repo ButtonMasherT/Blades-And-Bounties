@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 882505b673ee97a4abae7cb93bf57c86
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bulletspawn: {instanceID: 0}
+  - bullet: {fileID: 5391728849772682022, guid: c4aae321792be1e4eac66824aca410c9, type: 3}
+  - weaponIK: {instanceID: 0}
+  - navMeshAgent: {instanceID: 0}
+  - config: {instanceID: 0}
+  - ragdoll: {instanceID: 0}
+  - mesh: {instanceID: 0}
+  - ui: {instanceID: 0}
+  - playerTransform: {instanceID: 0}
+  - sensor: {instanceID: 0}
+  - weapons: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

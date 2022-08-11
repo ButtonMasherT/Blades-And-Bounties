@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 42b76ef611fc8ae4d81a09f9b4a60b90
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - vfxHitGreen: {instanceID: 0}
+  - vfxHitRed: {instanceID: 0}
+  - enemyBullet: {fileID: 5391728849772682022, guid: c4aae321792be1e4eac66824aca410c9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
